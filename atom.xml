@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-10T14:31:27.714Z</updated>
+  <updated>2020-02-11T17:01:55.100Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>另外一台電腦寫一篇測試</title>
+    <link href="http://yoursite.com/2020/02/11/%E5%8F%A6%E5%A4%96%E4%B8%80%E5%8F%B0%E9%9B%BB%E8%85%A6%E5%AF%AB%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6/"/>
+    <id>http://yoursite.com/2020/02/11/%E5%8F%A6%E5%A4%96%E4%B8%80%E5%8F%B0%E9%9B%BB%E8%85%A6%E5%AF%AB%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6/</id>
+    <published>2020-02-11T15:16:06.000Z</published>
+    <updated>2020-02-11T17:01:55.100Z</updated>
+    
+    <content type="html"><![CDATA[<p>##因果問題</p><p>休謨主張大多數人都相信只要一件事物伴隨著另一件事物而來，兩件事物之間必然存在著一種關聯，使得後者伴隨前者出現（post hoc ergo propter hoc—它在那之後而來，故必然是從此而來）。休謨在《人性論》以及後來洛克的《人類理解論》一書中反駁了這個理論，他指出雖然我們能觀察到一件事物隨著另一件事物而來，我們卻並不能觀察到這兩件事物之間的關聯。而依據他懷疑論的知識論，我們只能夠相信那些依據我們觀察所得到的知識。休謨主張我們對於因果的概念只不過是我們期待一件事物伴隨另一件事物而來的想法罷了。</p><a id="more"></a><p>「我們無從得知因果之間的關係，只能得知某些事物總是會連結在一起，而這些事物在過去的經驗裡又是從不曾分開過的。我們並不能看透連結這些事物背後的理性為何，我們只能觀察到這些事物的本身，並且發現這些事物總是透過一種經常的連結而被我們在想像中歸類。」（Hume, 1740:93）也因此我們不能說一件事物造就了另一件事物，我們所知道的只是一件事物跟另一件事物可能有所關連。休謨在這裡提出了「恆常連結」（constant conjunction）這個詞，恆常連結代表當我們看到某件事物總是「造成」另一事物時，我們所看到的其實是一件事物總是與另一件事物「恆常連結」。因此，我們並沒有理由相信一件事物的確造成另一件事物，兩件事物在未來也不一定會一直「互相連結」（Popkin &amp; Stroll, 1993: 268）。我們之所以相信因果關係並非因為因果關係是自然的本質，而是因為我們所養成的心理習慣和人性所造成的（Popkin &amp; Stroll, 1993: 272）。</p><p>休謨提出的這個說法有力駁斥了因果關係理論，在休謨之後的一些哲學家如伯特蘭·羅素還完全拋棄了因果關係的概念，只將其視為一種迷信。但從這裡也產生了因果的問題—我們對於因果連結的認知是從何而來的？而我們又能認知到怎麼樣的連結？這個問題至今仍沒有一定答案。休謨主張人類（以及其他動物）都有一種信賴因果關係的本能，這種本能則是來自我們神經系統中所養成的習慣，長期下來我們便無法移除這種習慣，但我們並沒有任何論點、也不能以演繹或歸納來證明這種習慣是正確的，就好像我們對於世界以外的地方一無所知一樣。</p><p>值得注意的是雖然「恆常連結」的理論一般被認為是休謨所提出的，可能有其他哲學家早在休謨之前便已提出類似的概念。中世紀哲學家邁蒙尼德的著作中便舉出了幾名同樣不相信「因果關係」的伊斯蘭哲學家，他在Guide for the Perplexed一書裡這樣寫道：「簡而言之：我們不應該說『這個』是造成『那個』的原因。」從這些伊斯蘭哲學家的角度來看，造物主所創造出的任何東西都是獨立而不相連的，因此這些事物間並沒有一定的連結。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##因果問題&lt;/p&gt;
+&lt;p&gt;休謨主張大多數人都相信只要一件事物伴隨著另一件事物而來，兩件事物之間必然存在著一種關聯，使得後者伴隨前者出現（post hoc ergo propter hoc—它在那之後而來，故必然是從此而來）。休謨在《人性論》以及後來洛克的《人類理解論》一書中反駁了這個理論，他指出雖然我們能觀察到一件事物隨著另一件事物而來，我們卻並不能觀察到這兩件事物之間的關聯。而依據他懷疑論的知識論，我們只能夠相信那些依據我們觀察所得到的知識。休謨主張我們對於因果的概念只不過是我們期待一件事物伴隨另一件事物而來的想法罷了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>來試試用hexo怎麼寫文</title>
@@ -43,8 +63,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/02/05/hello-world/"/>
     <id>http://yoursite.com/2020/02/05/hello-world/</id>
-    <published>2020-02-05T15:20:27.455Z</published>
-    <updated>2020-02-05T15:20:27.455Z</updated>
+    <published>2020-02-05T15:20:26.000Z</published>
+    <updated>2020-02-11T16:59:02.956Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
